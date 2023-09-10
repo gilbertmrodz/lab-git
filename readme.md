@@ -25,3 +25,4 @@ To submit the Lab on Canvas, you will need to upload the file from your computer
 You only need to upload the `my-solution.md` file. You should not need to upload any other files.
 
 Reach out to an instructor if you need help.
+I am learning to use git.
